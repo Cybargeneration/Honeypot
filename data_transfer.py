@@ -66,7 +66,7 @@ def display_main_menu():
             sys.exit()
 
 def establish_connection():
-    server_ip = '192.168.232.132'  
+    server_ip = 'your_ip_address'  
     server_port = 4444
     
     while True:
